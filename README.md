@@ -1,9 +1,6 @@
 # ConferenceBookingSystem
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
-
-# Demo:
-https://vishal011117.github.io/conferenceBookingSystem/login
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4 and update angular version.
 
 ## Development server
 
